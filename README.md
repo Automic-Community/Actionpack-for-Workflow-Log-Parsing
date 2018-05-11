@@ -9,7 +9,7 @@ http://github.com/Automic-Community/Actionpack-for-Workflow-Log-Parsing
 Contents of Solution Package:
 
 						
-								*PCK.CUSTOM_AUTOMIC_OBJECTS_1.0.5.zip
+								*PCK.CUSTOM_AUTOMIC_OBJECTS_1.0.8.zip
 								
 								*Screen-Shot-2018-05-09-at-8.47.11-AM.png
 								
